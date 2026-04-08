@@ -1,0 +1,11 @@
+{
+  "name": "Tetra USD",
+  "symbol": "tUSD",
+  "type": "BEP20",
+  "decimals": 6,
+  "description": "Tetra USD stable token",
+  "website": "https://tetrausd.io",
+  "explorer": "https://bscscan.com/token/0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A",
+  "status": "active",
+  "id": "0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A"
+}
