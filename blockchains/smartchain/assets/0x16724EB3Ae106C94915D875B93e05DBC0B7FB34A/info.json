@@ -10,12 +10,12 @@
   "id": "0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A",
   "links": [
     {
-      "name": "website",
-      "url": "https://tetrausd.io"
-    },
-    {
       "name": "github",
       "url": "https://github.com/USD-47"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/tetrausd"
     }
   ],
   "tags": [
