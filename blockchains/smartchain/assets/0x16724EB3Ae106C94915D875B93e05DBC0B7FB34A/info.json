@@ -7,5 +7,18 @@
   "website": "https://tetrausd.io",
   "explorer": "https://bscscan.com/token/0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A",
   "status": "active",
-  "id": "0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A"
+  "id": "0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://tetrausd.io"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/USD-47"
+    }
+  ],
+  "tags": [
+    "stablecoin"
+  ]
 }
